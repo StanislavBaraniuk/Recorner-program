@@ -1,13 +1,13 @@
 # Recorner
 Java. Object recognizer [click to see using](https://youtu.be/k0LbaRUBKho)
 
-![](https://github.com/StanislavBaranuk/Recorner/blob/master/logo.png)
+![](https://github.com/StanislavBaranuk/Recorner-program/blob/master/hh.jpg)
 
 ### ABOUT
 
 The program allows the user to apply one of the following functions:
 1. Character recognition using the lower unit is output.
-2. Clear the character bar.o8DwxWTac
+2. Clear the character bar.
 3. Opening a photo from a computer.
 4. Open the window to output the database:
 a. View Characters in the Database.
